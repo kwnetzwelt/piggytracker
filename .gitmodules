@@ -1,0 +1,6 @@
+[submodule "piggytracker-frontend"]
+	path = piggytracker-frontend
+	url = git@github.com:kwnetzwelt/piggytracker-frontend.git
+[submodule "piggytracker-backend"]
+	path = piggytracker-backend
+	url = git@github.com:kwnetzwelt/piggytracker-backend.git
